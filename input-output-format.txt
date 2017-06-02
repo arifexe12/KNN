@@ -1,0 +1,11 @@
+Input The Tuple :(name=F!,age=37,income=50,card=2,response=?!)
+Input Value Of K :3
+Result :
+income=50,response=YES,name=B,age=22,card=2
+income=35,response=NO,name=A,age=35,card=3
+income=40,response=YES,name=E,age=25,card=4
+response:YES
+
+
+! ortho ! soho value ta distance mapar somoy ignore korte hobe
+? ortho ? soho value tar jonno response ber korte hobe 

@@ -1,0 +1,6 @@
+name  age income card response
+A     35   35     3    NO
+B     22   50     2    YES
+C     63   200    1    NO
+D     59   170    1    NO
+E     25   40     4    YES
